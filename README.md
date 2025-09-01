@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @wildgeese121
-- 🌱 I’m currently learning C++ and Python
+
 
 
 <!---
